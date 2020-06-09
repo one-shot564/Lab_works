@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\учеба\лабы прога\лаба6\laba_6s\bin\Debug\netcoreapp3.1\laba_6s.exe
+C:\Users\User\Desktop\учеба\лабы прога\лаба6\laba_6s\bin\Debug\netcoreapp3.1\laba_6s.deps.json
+C:\Users\User\Desktop\учеба\лабы прога\лаба6\laba_6s\bin\Debug\netcoreapp3.1\laba_6s.runtimeconfig.json
+C:\Users\User\Desktop\учеба\лабы прога\лаба6\laba_6s\bin\Debug\netcoreapp3.1\laba_6s.runtimeconfig.dev.json
+C:\Users\User\Desktop\учеба\лабы прога\лаба6\laba_6s\bin\Debug\netcoreapp3.1\laba_6s.dll
+C:\Users\User\Desktop\учеба\лабы прога\лаба6\laba_6s\bin\Debug\netcoreapp3.1\laba_6s.pdb
+C:\Users\User\Desktop\учеба\лабы прога\лаба6\laba_6s\obj\Debug\netcoreapp3.1\laba_6s.csprojAssemblyReference.cache
+C:\Users\User\Desktop\учеба\лабы прога\лаба6\laba_6s\obj\Debug\netcoreapp3.1\laba_6s.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\учеба\лабы прога\лаба6\laba_6s\obj\Debug\netcoreapp3.1\laba_6s.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\учеба\лабы прога\лаба6\laba_6s\obj\Debug\netcoreapp3.1\laba_6s.AssemblyInfo.cs
+C:\Users\User\Desktop\учеба\лабы прога\лаба6\laba_6s\obj\Debug\netcoreapp3.1\laba_6s.dll
+C:\Users\User\Desktop\учеба\лабы прога\лаба6\laba_6s\obj\Debug\netcoreapp3.1\laba_6s.pdb
+C:\Users\User\Desktop\учеба\лабы прога\лаба6\laba_6s\obj\Debug\netcoreapp3.1\laba_6s.genruntimeconfig.cache

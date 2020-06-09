@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\User\Desktop\лабы прога\лаба2\laba2++\Source.cpp(36,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\лабы прога\лаба2\laba2++\Source.cpp(99,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\лабы прога\лаба2\laba2++\Source.cpp(110,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\лабы прога\лаба2\laba2++\Source.cpp(120,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\лабы прога\лаба2\laba2++\Source.cpp(129,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\лабы прога\лаба2\laba2++\Source.cpp(145,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  laba2++.vcxproj -> C:\Users\User\Desktop\лабы прога\лаба2\laba2++\Debug\laba2++.exe

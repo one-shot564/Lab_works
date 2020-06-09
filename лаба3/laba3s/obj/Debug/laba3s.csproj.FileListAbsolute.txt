@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\лабы прога\лаба3\laba3s\bin\Debug\laba3s.exe.config
+C:\Users\User\Desktop\лабы прога\лаба3\laba3s\bin\Debug\laba3s.exe
+C:\Users\User\Desktop\лабы прога\лаба3\laba3s\bin\Debug\laba3s.pdb
+C:\Users\User\Desktop\лабы прога\лаба3\laba3s\obj\Debug\laba3s.csprojAssemblyReference.cache
+C:\Users\User\Desktop\лабы прога\лаба3\laba3s\obj\Debug\laba3s.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\лабы прога\лаба3\laba3s\obj\Debug\laba3s.exe
+C:\Users\User\Desktop\лабы прога\лаба3\laba3s\obj\Debug\laba3s.pdb
+C:\Users\User\Desktop\учеба\лабы прога\лаба3\laba3s\bin\Debug\laba3s.exe.config
+C:\Users\User\Desktop\учеба\лабы прога\лаба3\laba3s\bin\Debug\laba3s.exe
+C:\Users\User\Desktop\учеба\лабы прога\лаба3\laba3s\bin\Debug\laba3s.pdb
+C:\Users\User\Desktop\учеба\лабы прога\лаба3\laba3s\obj\Debug\laba3s.csprojAssemblyReference.cache
+C:\Users\User\Desktop\учеба\лабы прога\лаба3\laba3s\obj\Debug\laba3s.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\учеба\лабы прога\лаба3\laba3s\obj\Debug\laba3s.exe
+C:\Users\User\Desktop\учеба\лабы прога\лаба3\laba3s\obj\Debug\laba3s.pdb

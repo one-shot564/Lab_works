@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\лабы прога\лаба2\lib\bin\Debug\netstandard2.0\lib.deps.json
+C:\Users\User\Desktop\лабы прога\лаба2\lib\bin\Debug\netstandard2.0\lib.dll
+C:\Users\User\Desktop\лабы прога\лаба2\lib\bin\Debug\netstandard2.0\lib.pdb
+C:\Users\User\Desktop\лабы прога\лаба2\lib\obj\Debug\netstandard2.0\lib.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\лабы прога\лаба2\lib\obj\Debug\netstandard2.0\lib.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\лабы прога\лаба2\lib\obj\Debug\netstandard2.0\lib.AssemblyInfo.cs
+C:\Users\User\Desktop\лабы прога\лаба2\lib\obj\Debug\netstandard2.0\lib.dll
+C:\Users\User\Desktop\лабы прога\лаба2\lib\obj\Debug\netstandard2.0\lib.pdb
+C:\Users\User\Desktop\учеба\лабы прога\лаба2\lib\bin\Debug\netstandard2.0\lib.deps.json
+C:\Users\User\Desktop\учеба\лабы прога\лаба2\lib\bin\Debug\netstandard2.0\lib.dll
+C:\Users\User\Desktop\учеба\лабы прога\лаба2\lib\bin\Debug\netstandard2.0\lib.pdb
+C:\Users\User\Desktop\учеба\лабы прога\лаба2\lib\obj\Debug\netstandard2.0\lib.csprojAssemblyReference.cache
+C:\Users\User\Desktop\учеба\лабы прога\лаба2\lib\obj\Debug\netstandard2.0\lib.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\учеба\лабы прога\лаба2\lib\obj\Debug\netstandard2.0\lib.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\учеба\лабы прога\лаба2\lib\obj\Debug\netstandard2.0\lib.AssemblyInfo.cs
+C:\Users\User\Desktop\учеба\лабы прога\лаба2\lib\obj\Debug\netstandard2.0\lib.dll
+C:\Users\User\Desktop\учеба\лабы прога\лаба2\lib\obj\Debug\netstandard2.0\lib.pdb
